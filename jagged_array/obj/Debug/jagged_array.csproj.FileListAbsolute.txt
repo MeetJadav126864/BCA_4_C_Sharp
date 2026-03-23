@@ -1,0 +1,7 @@
+C:\Users\student\source\repos\Unit4_Solution\jagged_array\bin\Debug\jagged_array.exe.config
+C:\Users\student\source\repos\Unit4_Solution\jagged_array\bin\Debug\jagged_array.exe
+C:\Users\student\source\repos\Unit4_Solution\jagged_array\bin\Debug\jagged_array.pdb
+C:\Users\student\source\repos\Unit4_Solution\jagged_array\obj\Debug\jagged_array.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\Unit4_Solution\jagged_array\obj\Debug\jagged_array.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Unit4_Solution\jagged_array\obj\Debug\jagged_array.exe
+C:\Users\student\source\repos\Unit4_Solution\jagged_array\obj\Debug\jagged_array.pdb
