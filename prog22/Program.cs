@@ -4,21 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace prog20
+namespace prog22
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-             Rectangle r1 = new Rectangle();
-             r1.calculate();
-             r1.display();
 
-             Rectangle r2 = new Rectangle(30, 40);
-             r2.calculate();
-             r2.display();
+            Savings s = new Savings();
+            s.getAccount();
+            s.get_data();
+            s.display();
+            s.show();
 
         }
-
     }
 }
